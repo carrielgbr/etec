@@ -1,0 +1,73 @@
+body{
+    background-color: #E6DAD1;
+}
+
+#container{
+    width: auto;
+    margin-left: auto;
+    margin-right:auto;
+    background-color: #E6DAD1;
+    margin-bottom: 20px;
+}
+
+.menu_site{
+    display:flex;
+    background-color: #cccc;
+    padding:10px;
+    min-height:30px;
+}
+
+.item_menu_site{
+    display:inline-block;
+    text-align:center;
+    min-width:15%;
+    padding:4px;
+    font-family: 'HK Grotesk', sans-serif;
+}
+
+.item_menu_site:hover{
+    background-color:#E6DAD1;
+    
+}
+
+a{
+    text-decoration:none;
+    color:black;
+}
+
+#img-home{
+    text-align: right;
+}
+.logo-site{
+    font-family: 'Abhaya Libre', serif;
+    font-size: 30px;
+}
+
+#conteudo-site{
+    font-family: 'Abhaya Libre', serif;
+    text-align: center;
+    font-size: 57px;
+}
+
+#informacoes{
+    padding: 20px;
+    margin: 0px;
+}
+
+#autor-site{
+    text-align: left;
+    background-color: #E6DAD1;
+    width: 960px;
+    height: 30px;
+    margin-top: 20px;
+}
+
+#autor-site li{
+    display: inline;
+    list-style: none;
+	padding: 5px;
+}
+
+.eqp{
+    text-align: center; 
+}
